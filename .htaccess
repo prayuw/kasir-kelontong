@@ -1,0 +1,2 @@
+# Matikan daftar isi folder jika tidak ada index.php
+Options -Indexes
